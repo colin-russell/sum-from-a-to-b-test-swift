@@ -17,7 +17,7 @@
 // THE SOFTWARE.
 
 import Foundation
-
+//
 struct Sums {
   func sum(from fromN: Int, to toN: Int) -> Int {
     if fromN == toN {
